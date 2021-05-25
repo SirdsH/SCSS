@@ -1,0 +1,11 @@
+@import "nav";
+@import "div";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: $background-primary;
+}
